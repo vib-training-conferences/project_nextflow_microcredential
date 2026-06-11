@@ -23,3 +23,8 @@
 | https://github.com/leenput/microcredential-nextflow-project/tree/main    |
 | https://github.com/ddebeer/nextflow_project                              |
 
+## Projects Q2 2026
+
+| Contributor names | Link to Github repository |
+| ----------------- | ------------------------- |
+| Antonio Silveira  | https://github.com/agferb/BSM2_sewer_system_pipeline.git |
