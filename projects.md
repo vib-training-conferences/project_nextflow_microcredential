@@ -8,6 +8,7 @@
 | Carolien Vlieghe  | https://github.com/carolienv/hla-typing-nextflow         |
 | Tom Moerkerke     | https://github.com/TOMVFS/nextflow_cedocs                |
 | Matilde Sanches, Lotte Pohl     | https://github.com/lottepohl/RDA_microcredential_nextflow_project    |
+| Lotte Pohl        | https://github.com/lottepohl/RDA_nextflow_ATdetectionfilter    |
 
 ## Projects Q4 2025
 
